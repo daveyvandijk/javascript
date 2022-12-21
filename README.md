@@ -3,3 +3,4 @@
 
 - [opdracht 1  - Background color](https://36044.hosts2.ma-cloud.nl/m2/)
 - [opdracht 2  - Boodschappen](https://36044.hosts2.ma-cloud.nl/m2/)
+- [opdracht 3  - mijn schilderijen](https://36044.hosts2.ma-cloud.nl/m2/)
